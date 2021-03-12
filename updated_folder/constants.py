@@ -1,5 +1,5 @@
-AWS_ACCESS_KEY="AKIAXPDTHGQRKKJ2ARWY"
-AWS_SECRET_ACCESS_ID="Z+az34nXM0cOdJW0+DbxkerxBkheMNZDgCG47X6/"
+AWS_ACCESS_KEY="**************************"
+AWS_SECRET_ACCESS_ID="********************************"
 INPUT_QUEUE_NAME = "send_queue.fifo"
 OUTPUT_QUEUE_NAME = "receive_queue.fifo"
 # ACCOUNT_ID="928035301235"
