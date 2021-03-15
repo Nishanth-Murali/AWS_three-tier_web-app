@@ -1,0 +1,13 @@
+AWS_ACCESS_KEY="****"
+AWS_SECRET_ACCESS_ID="****"
+INPUT_QUEUE_NAME = "send_queue.fifo"
+OUTPUT_QUEUE_NAME = "receive_queue.fifo"
+# ACCOUNT_ID="928035301235"
+MESSAGE_GROUP_ID="IMAGE_URLS"
+AWS_REGION = "us-east-1"
+S3_INPUT_BUCKET = "cse546inputbucket6344"
+AMI_APP_TIER1 = "ami-0ee8cf7b8a34448a6"
+OUTPUT_FILE = "outputfile.txt"
+S3_OUTPUT_BUCKET = "cse546outputbucket6344"
+PATH_TO_DOWNLOAD = "c:\\"
+
